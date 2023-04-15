@@ -22,14 +22,15 @@ for i in words:
     print('тип: {}\n'.format(type(i)))
 
 
-print('X'*145)
+
 
 for i in words:
     wrd_uni = ascii(i)
     print('содержание - {}\n'.format(i))
     print('- {}\n'.format(wrd_uni))
 
-print('X'*145)
+
+
 
 for i in words:
     wrd_uni = ascii(i)
