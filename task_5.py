@@ -20,6 +20,7 @@ def Ping(site):
 
 site_1 = ['ping', 'yandex.ru']
 site_2 = ['ping', 'youtube.com']
+
 if __name__ == '__main__':
     Ping(site_1)
     Ping(site_2)
